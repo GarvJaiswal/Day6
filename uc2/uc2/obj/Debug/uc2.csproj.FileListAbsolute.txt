@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\uc2\uc2\bin\Debug\uc2.exe.config
+C:\Users\lenovo\source\repos\uc2\uc2\bin\Debug\uc2.exe
+C:\Users\lenovo\source\repos\uc2\uc2\bin\Debug\uc2.pdb
+C:\Users\lenovo\source\repos\uc2\uc2\obj\Debug\uc2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\uc2\uc2\obj\Debug\uc2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\uc2\uc2\obj\Debug\uc2.exe
+C:\Users\lenovo\source\repos\uc2\uc2\obj\Debug\uc2.pdb
