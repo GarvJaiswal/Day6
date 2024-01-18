@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\uc4\uc4\bin\Debug\uc4.exe.config
+C:\Users\lenovo\source\repos\uc4\uc4\bin\Debug\uc4.exe
+C:\Users\lenovo\source\repos\uc4\uc4\bin\Debug\uc4.pdb
+C:\Users\lenovo\source\repos\uc4\uc4\obj\Debug\uc4.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\uc4\uc4\obj\Debug\uc4.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\uc4\uc4\obj\Debug\uc4.exe
+C:\Users\lenovo\source\repos\uc4\uc4\obj\Debug\uc4.pdb
